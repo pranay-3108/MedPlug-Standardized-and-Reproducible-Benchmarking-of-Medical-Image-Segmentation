@@ -1,2 +1,23 @@
-# Google App Engine generated folder
-appengine-generated/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+images/
+aligned_dataset/
+scripts/
+outputs/
+masks/
+
+.DS_Store
+Thumbs.db
+experiments/temp/
+experiments/*.png
+experiments/benchmark_results.csv
+experiments/leaderboard.csv
+.pytest_cache/
+_to_delete/
+predictions/*
+!predictions/.gitkeep

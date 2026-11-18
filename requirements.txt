@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+pydicom
+matplotlib
+pyyaml
+pillow
+tkinterdnd2
+# Needed to run the test suite (pytest.ini, tests/, tests_plugin/)
+pytest
